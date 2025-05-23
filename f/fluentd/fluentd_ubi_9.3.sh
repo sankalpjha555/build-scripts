@@ -17,6 +17,7 @@
 #             contact "Maintainer" of this script.
 #
 #
+#
 # ----------------------------------------------------------------------------
 
 PACKAGE_NAME=fluentd
